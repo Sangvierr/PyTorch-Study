@@ -31,7 +31,7 @@
 - 개요 : 고양이와 강아지 분류하는 합성곱 신경망 모델(LeNet) 설계 
 - 참고 : 딥러닝 파이토치 교과서 6장 3절의 이미지 분류를 위한 신경망
 
-  ### Theme 5. Custom Neural Network for Tabular Data
+### Theme 5. Custom Neural Network for Tabular Data
 - 일시 : 2024.02.28 & 2024.04.04
 - 사용한 데이터셋 : IDA 2016 Challenge에서 진행한 APS Failure and Operational Data for Scania Trucks 데이터
 - 개요 : PyTorch를 사용하여 정형데이터 처리 성능이 좋은 딥러닝 모델 설계
